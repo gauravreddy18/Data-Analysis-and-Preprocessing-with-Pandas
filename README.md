@@ -1,0 +1,1 @@
+This task requires a solid understanding of Python data processing methods with the pandas library. Significant steps involve importing datasets from CSV files and using different filters to extract insightful information.
